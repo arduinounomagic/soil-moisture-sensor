@@ -1,3 +1,12 @@
+/*
+*How to operate soil moisture sensor using Arduino Uno   create on: 25/2/2019
+*
+*for more detail please visit-
+*
+*
+*Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+*/
+
 int sensor_input= A2;// connect sensor at analog pin A2
 
 int sensor_value; // variable to store sensor value
