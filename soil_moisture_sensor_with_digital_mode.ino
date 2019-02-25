@@ -1,3 +1,11 @@
+/*
+*How to operate soil moisture sensor in digital mode using Arduino Uno   create on: 25/2/2019
+*
+*for more detail please visit-
+*
+*
+*Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+*/
 int sensor_input=7;// Connect sensor at analog pin A2
 int BUZZER=8; // connect buzzer at pin 8
 
