@@ -1,8 +1,9 @@
 /*
 *How to operate soil moisture sensor in digital mode using Arduino Uno   create on: 25/2/2019
 *
-*for more detail please visit-https://arduinounomagic.blogspot.com/2019/02/how-to-operate-soil-moisture-sensor.html
+*for more detail please visit-https://arduinounomagic.com/2019/02/how-to-operate-soil-moisture-sensor.html
 *
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com
 *
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
 */
